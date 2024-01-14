@@ -395,7 +395,7 @@ header .logo img {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   height: 600px;
-  background-image: url(/src/design-features.jpg);
+  background-image: url(src/design-features.jpg);
   background-size: cover;
   display: flex;
   align-items: center;
@@ -645,7 +645,7 @@ header .logo img {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
   text-align: center;
-  background-image: url(/src/stats.png);
+  background-image: url(src/stats.png);
   background-size: cover;
   position: relative;
 }
@@ -857,7 +857,7 @@ header .logo img {
 .quote {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/src/quote.jpg);
+  background-image: url(src/quote.jpg);
   background-size: cover;
   position: relative;
   text-align: center;
@@ -987,7 +987,7 @@ header .logo img {
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(/src/subscribe.jpg);
+  background-image: url(src/subscribe.jpg);
   background-size: cover;
   position: relative;
 }
@@ -1175,7 +1175,7 @@ header .logo img {
 .footer {
   padding-top: calc(var(--section-padding) / 2);
   padding-bottom: calc(var(--section-padding) / 2);
-  background-image: url(/src/subscribe.jpg);
+  background-image: url(src/subscribe.jpg);
   background-size: cover;
   position: relative;
   text-align: center;
