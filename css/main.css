@@ -987,7 +987,7 @@ header .logo img {
 .subscribe {
   padding-top: var(--section-padding);
   padding-bottom: var(--section-padding);
-  background-image: url(../srcsubscribe.jpg);
+  background-image: url(../src/srcsubscribe.jpg);
   background-size: cover;
   position: relative;
 }
